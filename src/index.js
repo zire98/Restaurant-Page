@@ -1,3 +1,4 @@
-import createHome from "./modules/Home.js";
+import createHome from "./pages/Home.js";
+import createMenu from "./pages/Menu.js"
 import './styles.css';
-createHome();
+createMenu();
