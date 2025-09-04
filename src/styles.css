@@ -78,3 +78,28 @@ button:hover {
     background-color: grey;
     cursor: pointer;
 }
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(17, 15, 15);
+    align-items: center;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.menu-section {
+    background-color: aliceblue;
+    padding: 2rem;
+    width: 25%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.menu-article {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
