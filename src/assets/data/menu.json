@@ -1,0 +1,62 @@
+{
+    "drinks": [
+        {
+            "name": "Coca-Cola",
+            "description": "Classic soda 12oz can",
+            "price": 1.5,
+            "image": ""
+        },
+        {
+            "name": "Mineral Water",
+            "description": "Natural spring water 16oz bottle",
+            "price": 1.0,
+            "image": ""
+        },
+        {
+            "name": "Lemonade",
+            "description": "Freshly squeezed lemonade",
+            "price": 2.0,
+            "image": ""
+        }
+    ],
+    "burgers": [
+        {
+            "name": "Cheeseburger",
+            "description": "Beef patty with melted cheddar cheese",
+            "price": 5.5,
+            "image": ""
+        },
+        {
+            "name": "Double Bacon Burger",
+            "description": "Two beef patties with crispy bacon",
+            "price": 7.0,
+            "image": ""
+        },
+        {
+            "name": "Vegan Burger",
+            "description": "Plant-based patty with fresh veggies",
+            "price": 6.0,
+            "image": ""
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Brownie",
+            "description": "Chocolate brownie with walnuts",
+            "price": 3.0,
+            "image": ""
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "description": "Two scoops of vanilla ice cream",
+            "price": 2.5,
+            "image": ""
+        },
+        {
+            "name": "Cheesecake",
+            "description": "New York style cheesecake slice",
+            "price": 4.0,
+            "image": ""
+        }
+    ]
+}
