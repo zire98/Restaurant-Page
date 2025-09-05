@@ -48,7 +48,7 @@ footer {
     gap: .5rem;
     display: flex;
     align-items: center;
-    background-color: rgb(17, 15, 15);
+    background-color: rgb(22, 22, 26);
     color: aliceblue;
     min-height: 100%;
 }
@@ -82,7 +82,7 @@ button:hover {
 .menu {
     display: flex;
     flex-direction: column;
-    background-color: rgb(17, 15, 15);
+    background-color: rgb(22, 22, 26);
     align-items: center;
     padding: 2rem;
     gap: 1rem;
@@ -102,4 +102,47 @@ button:hover {
     display: flex;
     flex-direction: column;
     gap: .5rem;
+}
+
+.about {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "left-about right-about";
+    background-color: rgb(22, 22, 26);
+    min-height: 100%;
+    padding: 2rem;
+}
+
+.left-about {
+    grid-area: left-about;
+}
+
+.right-about {
+    grid-area: right-about;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 2rem;
+}
+
+.about-title {
+    color: rgb(196, 132, 48);
+    font-size: 5rem;
+    text-align: center;
+}
+
+.about-subtitle {
+    color: aliceblue;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.about-text {
+    color: rgb(196, 132, 48);
+    font-size: 1.5rem;
+}
+
+.adress-img {
+    border-radius: 10px;
 }
