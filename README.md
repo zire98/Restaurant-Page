@@ -3,7 +3,7 @@
 A simple, modular, and responsive restaurant website built with **vanilla JavaScript**, **Webpack**, and **dynamic DOM manipulation**.  
 This project demonstrates how to structure, organize, and render a multi-page layout without a frontend framework by simulating API calls with JSON data.  
 
-🔗 **Live Demo**: [GitHub Pages Deployment](https://github.com/zire98/Restaurant-Page)  
+🔗 **Live Demo**: [GitHub Pages Deployment](https://zire98.github.io/Restaurant-Page/)  
 
 
 ---
