@@ -1,5 +1,12 @@
 # 🍴 Restaurante Page
 
+# 🍴 Restaurante Page  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+![Webpack](https://img.shields.io/badge/Webpack-5-blue)  
+![CSS3](https://img.shields.io/badge/CSS3-styles-blueviolet)  
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen)  
+
 A simple, modular, and responsive restaurant website built with **vanilla JavaScript**, **Webpack**, and **dynamic DOM manipulation**.  
 This project demonstrates how to structure, organize, and render a multi-page layout without a frontend framework by simulating API calls with JSON data.  
 
