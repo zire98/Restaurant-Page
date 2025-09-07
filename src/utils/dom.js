@@ -38,3 +38,20 @@ export function completeMenu(menu, container) {
 function titleize(s) {
     return s.charAt(0).toUpperCase() + s.slice(1);
 }
+
+export function createImgLink(img, link, aName, imgName) {
+    const imgLink = createEl("a", { className: aName });
+    imgLink.href = link;
+    imgLink.target = "_blank";
+    const image = createEl("img", { className: imgName });
+    image.src = img;
+    imgLink.appendChild(image);
+
+    return imgLink;
+}
+
+export function clearElement(element) {
+    if (element) {
+        element.innerHTML = "";
+    }
+}
