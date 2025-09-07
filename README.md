@@ -22,7 +22,7 @@ This project demonstrates how to structure, organize, and render a multi-page la
 ---
 
 ## 📂 Project Structure  
-
+```
 Restaurante-Page/
 ├── dist/ # Production build (deployed to GitHub Pages)
 ├── src/
@@ -45,6 +45,7 @@ Restaurante-Page/
 ├── package-lock.json
 ├── webpack.config.js
 └── README.md
+```
 
 ---
 
