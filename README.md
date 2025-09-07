@@ -1,5 +1,3 @@
-# 🍴 Restaurante Page
-
 # 🍴 Restaurante Page  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)  
